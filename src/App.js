@@ -12,7 +12,7 @@ export const MyContext = createContext({})
 
 const App = () => {
 
-    const [message, setMessage] = useState("C:\Alexander Rojas>")
+    const [message, setMessage] = useState("C:Alexander Rojas>")
 
     const Layout = () => {
         return(
