@@ -1,6 +1,6 @@
 import React, { createContext, useState } from 'react'
 import Header from './components/Header/Header'
-import styles from './App.css'
+import styles from './App.module.css'
 import Certifications from './components/Certifications/Certifications'
 import Intro from './components/Intro/Intro'
 import { Outlet, Route, Routes } from 'react-router-dom'
@@ -18,7 +18,7 @@ const App = () => {
         return(
             <> 
             <MyContext.Provider value={{message, setMessage}}>
-            <div className={styles.App}>
+            <div className={styles.app}>
                 <header>
                     <Header/>
                 </header>
