@@ -1,0 +1,57 @@
+.typing{
+    padding: 0px 0px 5px 0px;
+    width: 17ch;
+    /* animation: typing 3.5s steps(20), blink .5s step-end infinite alternate; */
+    animation: typing 2.5s, blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .12em solid #191919; /* The typwriter cursor */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    /* animation-iteration-count: infinite; */
+}
+/* The typing effect */
+@keyframes typing {
+    from {
+        width: 0
+    }
+}
+/* The typewriter cursor effect */
+@keyframes blink {
+    50% {
+        border-color: transparent
+    }
+}
+
+/* .caret{
+    width: 2ch;
+    padding: 10px;
+    animation: blink-caret .5s step-end infinite alternate;
+    border-bottom: 3px solid #191919;
+    // #fedba9
+}
+ //The typewriter cursor effect 
+ @keyframes blink-caret {
+    50% {
+        border-color: transparent
+    }
+} */
+      
+.h1{
+    font-size: x-large;
+}
+
+.a {
+    font-size: xx-large;
+    background: none;
+    border: none;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+.span{
+    font-size: 20px;
+}
+
+.nav{
+    background: #fff;
+}

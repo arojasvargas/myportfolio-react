@@ -1,0 +1,101 @@
+[
+    {
+        "id" : 1,
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "issuer": "Microsoft",
+        "credentialId": "992762214",
+        "issued": "May 2022",
+        "expiration": "May 2023",
+        "url": "https://landingpageimages.blob.core.windows.net/images/microsoft.png"
+    },
+    {
+        "id" : 2,
+        "name": "Microsoft Certified: Azure Data Fundamentals",
+        "issuer": "Microsoft",
+        "credentialId": "992762214",
+        "issued": "March 2022",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/microsoft.png"
+    },
+    {
+        "id" : 3,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "issuer": "Microsoft",
+        "credentialId": "992762214",
+        "issued": "March 2022",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/microsoft.png"
+    },
+    {
+        "id" : 4,
+        "name": "JavaScript Programming - Universidad Cenfotec",
+        "issuer": "Universidad Cenfotec",
+        "credentialId": "FRO-02/PC33-G11",
+        "issued": "April 2022",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ucenfotec.png"
+    },
+    {
+        "id" : 5,
+        "name": "Web interface development - Universidad Cenfotec",
+        "issuer": "Universidad Cenfotec",
+        "credentialId": "PFRO 22092",
+        "issued": "February 2022",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ucenfotec.png"
+    },
+    {
+        "id" : 6,
+        "name": "Introduction to Agile - Skillsoft",
+        "issuer": "Skillsoft",
+        "credentialId": "716507",
+        "issued": "December 2021",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/skillsoft.jpeg"
+    },
+    {
+        "id" : 7,
+        "name": "Python programming for App Development – Basic Level - Universidad de Costa Rica",
+        "issuer": "Universidad de Costa Rica",
+        "credentialId": "N/A",
+        "issued": "November 2021",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ucr.png"
+    },
+    {
+        "id" : 8,
+        "name": "Advanced English - Instituto Nacional de Aprendizaje",
+        "issuer": "Instituto Nacional de Aprendizaje (INA)",
+        "credentialId": "N/A",
+        "issued": "August 2019",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ina.png"
+    },
+    {
+        "id" : 9,
+        "name": "CCNA Routing & Switching: Routing and Switching Essentials",
+        "issuer": "Cisco Networking Academy",
+        "credentialId": "N/A",
+        "issued": "May 2019",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/cisco.png"
+    },
+    {
+        "id" : 10,
+        "name": "CCNA Routing & Switching: Introduction to Networks",
+        "issuer": "Cisco Networking Academy",
+        "credentialId": "N/A",
+        "issued": "December 2018",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/cisco.png"
+    }
+]
+
+
+
+
+
+
+
+
+

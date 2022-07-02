@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "company": "DXC Technology",
+        "url": "https://landingpageimages.blob.core.windows.net/images/dxc.jpg",
+        "title": "In-App Support Engineer - Outlook/Edge/OneDrive",
+        "start": "December 2019",
+        "end": "February 2022",
+        "description" : [
+            {
+                "id": 1,
+                "summary" : "Role tightly connected to the Microsoft Software Developer group for issue & bug resolution."
+            },
+            {
+                "id": 2,
+                "summary" : "Identified issues and implemented appropriate solutions to deliver quick and effective remediation."
+            },
+            {
+                "id": 3,
+                "summary" : "Neatly gathered details/logs to identify bugs and shared the data with Engineering to release code fixes."
+            },
+            {
+                "id": 4,
+                "summary" : "Wrote engineering reports to document potential trending issues that needed a code/service fix."
+            }
+        ] 
+    },
+    {
+        "id": 2,
+        "company": "DXC Technology",
+        "url": "https://landingpageimages.blob.core.windows.net/images/dxc.jpg",
+        "title": "IT Ops/Support Analyst",
+        "start": "January 2019",
+        "end": "December 2019",
+        "description" : [
+            {
+                "id": 1,
+                "summary" : "Professional responsible for the support, and enhancement of HP Inc infrastructure and support of HP Inc employees via phone, chat, and videoconference"
+            },
+            {
+                "id": 2,
+                "summary" : "Conferred with users and conducted computer diagnostics to investigate and resolve problems and to provide technical assistance and support."
+            },
+            {
+                "id": 3,
+                "summary" : "Set up equipment for employee use, performed and ensured proper installation of the operating system and appropriate software."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "company": "Best Way Travel S.A.",
+        "url": "https://landingpageimages.blob.core.windows.net/images/bestway.png",
+        "title": "Software Engineer Intern",
+        "start": "January 2021",
+        "end": "April 2021",
+        "description" : [
+            {
+                "id": 1,
+                "summary" : "Analyzed user needs and software requirements to determine feasibility of design within time and cost constraints."
+            },
+            {
+                "id": 2,
+                "summary" : "Created data flow diagrams, use case diagrams and activity diagrams to define the ways customers interact with the software, and how the software responds to inputs."
+            },
+            {
+                "id": 3,
+                "summary" : "Wrote well-designed and testable code in C# using an MVC architecture and OOP model coupled with a connection to a SQL server hosted on Azure."
+            },
+            {
+                "id": 4,
+                "summary" : "Deployed the software to client computers and made sure it was working properly and trained users to use the new software."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "company": "STT Group de Costa Rica",
+        "url": "https://landingpageimages.blob.core.windows.net/images/stt.jpg",
+        "title": "Service Desk Technician",
+        "start": "May 2018",
+        "end": "December 2018",
+        "description" : [
+            {
+                "id": 1,
+                "summary" : "Assisted DXC employees with various types of technical issues via email, live chat and telephone."
+            },
+            {
+                "id": 2,
+                "summary" : "Read technical manuals, interacted with users and performed computer diagnostics to investigate and solve problems providing technical assistance and support."
+            },
+            {
+                "id": 3,
+                "summary" : "Participated in the completion of the DXC migration program as part of the exit of DXC technology from HPE's IT services environment."
+            },
+            {
+                "id": 4,
+                "summary" : "Managed escalations from senior management as a member of the escalations team."
+            },
+            {
+                "id": 5,
+                "summary" : "Trained and mentored new service desk personnel and managed IT portion of employee onboarding process."
+            }
+        ]
+    }
+]

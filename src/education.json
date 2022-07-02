@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "school": "Universidad Latina de Costa Rica",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ulatina.png",
+        "degree": "Bachelor of Engineering - BE",
+        "field": "Systems Engineering",
+        "start": "January 2017",
+        "end": "April 2021"
+    },
+    {
+        "id": 2,
+        "school": "Universidad Cenfotec",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ucenfotec.png",
+        "degree": "Front-End Web Development",
+        "field": "Software Engineering",
+        "start": "October 2021",
+        "end": "October 2022"
+    }
+]
