@@ -10,7 +10,7 @@ const Intro = () => {
         <div className='container px-4'>
             <div className='row'>
                 <div className='col'>
-                    <img className={`${Styles.profile}`} src={profilepic} alt='Profile picture'></img>
+                    <img className={`${Styles.profile}`} src={profilepic} alt='Alexander Rojas'></img>
                 </div>
             </div>
         </div>

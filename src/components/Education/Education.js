@@ -12,7 +12,7 @@ const Education = () => {
                   return(
                   <div className="row" key={item.id}>
                      <div className='col-1'>
-                     <img src={item.url} className={`${Styles.img}`}></img>
+                     <img src={item.url} className={`${Styles.img}`} alt="Company logo"></img>
                     </div>
                     <div className='col d-flex flex-column'>
                       <h4 className={`${Styles.h4}`}>{item.school}</h4>
