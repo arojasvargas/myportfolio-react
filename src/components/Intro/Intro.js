@@ -5,7 +5,7 @@ import profilepic from './img/1652492749946.jpg'
 
 const Intro = () => {
   return (
-    <div className={`${Styles.topmargin} container p-0 shadow rounded bg-light`}>
+    <div className={`p-0 my-2 container shadow rounded bg-light`}>
         <img className={`${Styles.banner}`} src={banner} alt='Banner showing code'></img>
         <div className='container px-4'>
             <div className='row'>

@@ -11,8 +11,8 @@ import Education from './components/Education/Education'
 export const MyContext = createContext({})
 
 const App = () => {
-
-    const [message, setMessage] = useState("C:Alexander Rojas>")
+    //eslint-disable-next-line
+    const [message, setMessage] = useState("C:\\Alexander Rojas>")
 
     const Layout = () => {
         return(

@@ -2,7 +2,7 @@
     padding: 0px 0px 5px 0px;
     width: 17ch;
     /* animation: typing 3.5s steps(20), blink .5s step-end infinite alternate; */
-    animation: typing 2.5s, blink .5s step-end infinite alternate;
+    animation: typing 3.5s, blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .12em solid #191919; /* The typwriter cursor */
