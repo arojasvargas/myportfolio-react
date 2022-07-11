@@ -4,7 +4,7 @@ This repository was created using React and is meant to showcase all of my profe
 
 ## Hosting
 
-This portfolio site is available at [www.rojasalexander.com](www.rojasalexander.com). This site is currently hosted on Azure and uses CI/CD workflows with Github actions.
+This portfolio site is available at [www.rojasalexander.com](https://www.rojasalexander.com/). This site is currently hosted on Azure and uses CI/CD workflows with Github actions.
 
 ## Available Scripts
 
