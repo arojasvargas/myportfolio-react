@@ -4,9 +4,9 @@ import Styles from './Experience.module.css'
 
 const Experience = () => {
   return (
-    <div className={'container p-5 my-2 shadow rounded bg-light'}>
+    <div className={'container p-5 pb-4 my-2 shadow rounded bg-light'}>
         <h3>Experience</h3>
-        <ul className='ps-0 ps-lg-4'>
+        <ul className='ps-0 ps-lg-4 m-0'>
             {experience.map(
                 (item) => {
                   
