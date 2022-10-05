@@ -28,6 +28,15 @@
     },
     {
         "id" : 4,
+        "name": "Web application development with React - Universidad Cenfotec",
+        "issuer": "Universidad Cenfotec",
+        "credentialId": "FRO-03/PC33-M4",
+        "issued": "June 2022",
+        "expiration": "No Expiration Date",
+        "url": "https://landingpageimages.blob.core.windows.net/images/ucenfotec.png"
+    },
+    {
+        "id" : 5,
         "name": "JavaScript Programming - Universidad Cenfotec",
         "issuer": "Universidad Cenfotec",
         "credentialId": "FRO-02/PC33-G11",
@@ -36,7 +45,7 @@
         "url": "https://landingpageimages.blob.core.windows.net/images/ucenfotec.png"
     },
     {
-        "id" : 5,
+        "id" : 6,
         "name": "Web interface development - Universidad Cenfotec",
         "issuer": "Universidad Cenfotec",
         "credentialId": "PFRO 22092",
@@ -45,7 +54,7 @@
         "url": "https://landingpageimages.blob.core.windows.net/images/ucenfotec.png"
     },
     {
-        "id" : 6,
+        "id" : 7,
         "name": "Introduction to Agile - Skillsoft",
         "issuer": "Skillsoft",
         "credentialId": "716507",
@@ -54,7 +63,7 @@
         "url": "https://landingpageimages.blob.core.windows.net/images/skillsoft.jpeg"
     },
     {
-        "id" : 7,
+        "id" : 8,
         "name": "Python programming for App Development – Basic Level - Universidad de Costa Rica",
         "issuer": "Universidad de Costa Rica",
         "credentialId": "N/A",
@@ -63,7 +72,7 @@
         "url": "https://landingpageimages.blob.core.windows.net/images/ucr.png"
     },
     {
-        "id" : 8,
+        "id" : 9,
         "name": "Advanced English - Instituto Nacional de Aprendizaje",
         "issuer": "Instituto Nacional de Aprendizaje (INA)",
         "credentialId": "N/A",
@@ -72,7 +81,7 @@
         "url": "https://landingpageimages.blob.core.windows.net/images/ina.png"
     },
     {
-        "id" : 9,
+        "id" : 10,
         "name": "CCNA Routing & Switching: Routing and Switching Essentials",
         "issuer": "Cisco Networking Academy",
         "credentialId": "N/A",
@@ -81,7 +90,7 @@
         "url": "https://landingpageimages.blob.core.windows.net/images/cisco.png"
     },
     {
-        "id" : 10,
+        "id" : 11,
         "name": "CCNA Routing & Switching: Introduction to Networks",
         "issuer": "Cisco Networking Academy",
         "credentialId": "N/A",

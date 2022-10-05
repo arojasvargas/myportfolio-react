@@ -5,7 +5,7 @@ import profilepic from './img/1652492749946.jpg'
 
 const Intro = () => {
   return (
-    <div className={`p-0 my-2 container shadow rounded bg-light`}>
+    <div className={`p-0 my-3 container shadow rounded bg-light`}>
         <img className={`${Styles.banner}`} src={banner} alt='Banner showing code'></img>
         <div className='container px-4'>
             <div className='row'>
@@ -38,7 +38,7 @@ const Intro = () => {
                 </div>
                 <div className='row'>
                     <div className='col'>
-                        <span>Quality-oriented recent college graduate with a Bachelor of Engineering - BE in Systems Engineering, with 3+ years of work experience. Aiming to leverage academic experience and a proven knowledge of research and development, product design, and product development cycle to successfully fill the Software Developer role. </span>
+                        <span>Quality-oriented recent college graduate with a Bachelor of Engineering - BE in Systems Engineering, with 3+ years of work experience. Aiming to leverage academic experience and a proven knowledge of R&D, cloud computing and product development cycle to successfully fill the Systems Engineer role. </span>
                     </div>
                     
                 </div>
