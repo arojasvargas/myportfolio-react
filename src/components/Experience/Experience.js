@@ -11,8 +11,8 @@ const Experience = () => {
                 (item) => {
                   
                   return(
-                    <div className="row align-items-center" key={item.id}>
-                      <div className='col-3 col-md-2 col-lg-1'>
+                    <div className="row align-items-sm-center" key={item.id}>
+                      <div className='col-3 col-md-2 col-lg-1 p-0 px-sm-2 align-items-start'>
                         <img src={item.url} className={`img-fluid`} alt="Company logo"></img>
                       </div>
                       <div className='col-9 col-md-10 col-lg-11 d-flex flex-column'>

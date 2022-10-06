@@ -1,7 +1,7 @@
 @media (max-width: 576px) {
     .typing{
         padding: 0px 0px 5px 0px;
-        width: 18ch;
+        width: 15ch;
         /* animation: typing 3.5s steps(20), blink .5s step-end infinite alternate; */
         animation: typing 3.5s, blink .5s step-end infinite alternate;
         white-space: nowrap;
@@ -15,7 +15,7 @@
 @media (min-width: 577px) {
     .typing{
         padding: 0px 0px 5px 0px;
-        width: 20ch;
+        width: 17ch;
         /* animation: typing 3.5s steps(20), blink .5s step-end infinite alternate; */
         animation: typing 3.5s, blink .5s step-end infinite alternate;
         white-space: nowrap;
