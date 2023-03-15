@@ -22,7 +22,7 @@ const Intro = () => {
                             <h3>Alexander Rojas Vargas</h3>
                         </div>
                         <div className='row'>
-                            <span>Bachelor's Degree in Computer Systems Engineering</span>
+                            <span>Site Reliability Engineer II at Akamai Technologies</span>
                         </div>
                         <div className='row'>
                             <span>Alajuela, Costa Rica</span>
@@ -38,7 +38,7 @@ const Intro = () => {
                 </div>
                 <div className='row'>
                     <div className='col'>
-                        <span>Quality-oriented recent college graduate with a Bachelor of Engineering - BE in Systems Engineering, with 3+ years of work experience. Aiming to leverage academic experience and a proven knowledge of R&D, cloud computing and product development cycle to successfully fill the Systems Engineer role. </span>
+                        <span>In my role as a Site Reliability Engineer, I am committed to continuously improving system performance, minimizing downtime, and maximizing the uptime of critical applications. My technical background includes experience in cloud infrastructure management, network architecture design, and automation tools for deployment and monitoring.</span>
                     </div>
                     
                 </div>
