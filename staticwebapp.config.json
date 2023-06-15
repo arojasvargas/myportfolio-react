@@ -2,12 +2,12 @@
     "routes": [
         {
             "route": "/index.html",
-            "rewrite": "/siteunavailable.html"
+            "rewrite": "/404.html"
         }
     ],
     "navigationFallback": 
         {
-            "rewrite": "/siteunavailable",
+            "rewrite": "/404",
             "exclude": ["/resources/*.{png,jpg,gif}", "/css/*"]
         },
     "responseOverrides": 
