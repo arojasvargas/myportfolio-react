@@ -21,5 +21,8 @@
             ".json": "text/json",
             ".js": "text/javascript",
             ".css": "text/css"
-        }
+        },
+    "platform": {
+    "apiRuntime": "node:16"
+  }
 }
