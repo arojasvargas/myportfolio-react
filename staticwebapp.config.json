@@ -1,19 +1,19 @@
 {
     "routes": [
         {
-            "route": "/index.html",
-            "rewrite": "/404.html"
+            "route": "/",
+            "rewrite": "/*"
         }
     ],
     "navigationFallback": 
         {
-            "rewrite": "/404",
+            "rewrite": "/*",
             "exclude": ["/resources/*.{png,jpg,gif}", "/css/*"]
         },
     "responseOverrides": 
         {
             "404": {
-                "rewrite": "/404.html"
+                "rewrite": "/*"
               }
         },
     "mimeTypes": 
