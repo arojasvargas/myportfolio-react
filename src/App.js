@@ -40,7 +40,8 @@ const App = () => {
     return (
         <Routes>
             <Route index path='/' element={<Layout/>}/>
-            <Route path='*' element={<ErrorPage/>}/>
+            <Route path='/404' element={<ErrorPage/>}/>
+            <Route path="*" element={<Navigate to="/404" />} />
         </Routes>
     )
 
